@@ -1,0 +1,9 @@
+[package]
+name = "guess_rust"
+version = "0.1.0"
+authors = ["Michele Riva <master@micheleriva.it>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.4.0"
